@@ -46,7 +46,7 @@ Com base nos dados analisados, seguem recomendações estratégicas para a Olist
 
 ## 💡 Principais Insights
 
-| Insight | Valor |
+| Resultado | Valores |
 |---|---|
 | Total de pedidos entregues | 96.478 |
 | Mês com mais pedidos | Novembro/2017 (Black Friday) |
