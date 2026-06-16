@@ -104,6 +104,6 @@ pip install pandas matplotlib seaborn
 Analista de Dados Jr. | Python • SQL • Looker Studio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dione-dias-dos-santos-3a4498221)  
-feat: adiciona badge do LinkedIn na seção Autora
+
 [![GitHub](https://img.shields.io/badge/GitHub-dionesantoss-181717?style=flat&logo=github)](https://github.com/dionesantoss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dione%20Santos-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
