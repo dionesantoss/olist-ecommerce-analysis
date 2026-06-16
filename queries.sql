@@ -1,6 +1,5 @@
 -- ================================================
 -- Análise Olist E-Commerce | SQL Queries
--- Autor: Dione Santos
 -- Dataset: Brazilian E-Commerce Public Dataset
 -- ================================================
 
