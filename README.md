@@ -29,6 +29,20 @@ Entender o comportamento de vendas, satisfação do cliente e performance de ent
 6. Quais categorias de produto mais vendem?
 
 ---
+---
+## 📌 Recomendações de Negócio
+
+Com base nos dados analisados, seguem recomendações estratégicas para a Olist:
+
+1. **Priorizar SLA de entrega no Nordeste e Centro-Oeste** — Pedidos atrasados geram nota média 2,02 pontos abaixo dos entregues no prazo (2.27 vs 4.29). Estados fora do eixo SP-RJ concentram maior proporção de atrasos e devem ser foco de negociação com transportadoras.
+
+2. **Explorar sazonalidade da Black Friday** — Novembro/2017 foi o mês com maior volume de pedidos. A Olist pode se preparar com antecedência para os próximos novembros aumentando estoque e capacidade logística.
+
+3. **Incentivar parcelamento consciente** — Com 75.2% dos pagamentos em cartão de crédito, campanhas de parcelamento podem aumentar o ticket médio, especialmente nas categorias de maior valor como Informática e Eletrodomésticos.
+
+4. **Investir nas categorias de alto volume** — Cama, Mesa e Banho lidera com 11.115 itens vendidos. Ações de cross-sell com categorias complementares (ex: Utilidades Domésticas) podem aumentar o valor por pedido.
+
+
 
 ## 💡 Principais Insights
 
